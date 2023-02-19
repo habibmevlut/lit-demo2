@@ -1,0 +1,1 @@
+{"version":3,"file":"user-card-profile.d.ts","sourceRoot":"","sources":["../../../src/card/user-card-profile.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,UAAU,EAAE,MAAM,KAAK,CAAC;AAG5C,qBACa,eAAgB,SAAQ,UAAU;IAC3C,OAAgB,MAAM,0BAcpB;IAEF,GAAG,SAAM;cAEU,MAAM,IAAI,OAAO;CAGvC;AAED,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAE3B,mBAAmB,EAAE,eAAe,CAAC;KACxC;CACJ"}

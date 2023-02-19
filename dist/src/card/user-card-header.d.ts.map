@@ -1,0 +1,1 @@
+{"version":3,"file":"user-card-header.d.ts","sourceRoot":"","sources":["../../../src/card/user-card-header.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,UAAU,EAAE,MAAM,KAAK,CAAC;AAI5C,qBACa,cAAe,SAAQ,UAAU;IAE1C,OAAgB,MAAM,0BASpB;IAGF,MAAM,SAAM;IAEZ,SAAS,SAAM;IAEN,MAAM;CAOlB;AAED,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAC3B,kBAAkB,EAAE,cAAc,CAAC;KACtC;CACJ"}

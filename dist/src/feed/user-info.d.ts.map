@@ -1,0 +1,1 @@
+{"version":3,"file":"user-info.d.ts","sourceRoot":"","sources":["../../../src/feed/user-info.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,UAAU,EAAE,MAAM,KAAK,CAAC;AAI5C,qBACa,QAAS,SAAQ,UAAU;IACpC,OAAgB,MAAM,0BAgBpB;IAEF,GAAG,SAAM;IAIT,OAAO,CAAC,MAAM,CAAmC;IAExC,iBAAiB;IAKjB,MAAM;YAsCD,aAAa;CAQ9B;AAMD,OAAO,CAAC,MAAM,CAAC;IACX,UAAU,qBAAqB;QAE3B,WAAW,EAAE,QAAQ,CAAC;KACzB;CACJ"}
