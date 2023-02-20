@@ -9,7 +9,6 @@ export class UserCardBody extends LitElement {
         flex-grow: 2;
         overflow: hidden;
         text-overflow: ellipsis;
-        color: var(--medium-body-color);
       }
     `;
 

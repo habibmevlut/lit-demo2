@@ -7,9 +7,9 @@ export class UserCard extends LitElement {
     static override styles = css`
       :host {
         display: flex;
-        background-color: var(--user-card-background-color, white);
-        border: var(--user-card-border, solid 1px lightgray);
-        border-radius: var(--user-card-border-radius, 3px);
+        background-color: var(--user-info-card-background-color);
+        border: var(--user-info-card-border);
+        border-radius: var(--user-info-card-border-radius);
       }
 
       .right {
@@ -19,23 +19,6 @@ export class UserCard extends LitElement {
         justify-content: space-between;
         overflow: hidden;
         text-overflow: ellipsis;
-      }
-
-      user-card-profile {
-        --medium-profile-height: var(--user-card-height);
-        --medium-profile-border-left-radius: var(--user-card-border-radius);
-      }
-
-      user-card-header {
-        --medium-header-color: var(--user-card-header-color);
-      }
-
-      user-card-body {
-        --medium-body-color: var(--user-card-body-color);
-      }
-
-      user-card-footer {
-        --medium-footer-color: var(--user-card-footer-color);
       }
     `;
 
@@ -71,6 +54,7 @@ export class UserCard extends LitElement {
 
 declare global {
     interface HTMLElementTagNameMap {
+        // @ts-ignore
         'user-card': UserCard;
     }
 }

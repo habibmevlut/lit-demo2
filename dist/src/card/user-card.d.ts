@@ -1,10 +1,11 @@
 import { LitElement } from "lit";
+import { IUser } from "../feed/user-info.model";
 export declare class UserCard extends LitElement {
     static styles: import("lit").CSSResult;
     profileImage: string;
     header: string;
-    subheader: string;
-    body: string;
+    subHeader: string;
+    body: IUser;
     footer: string;
     render(): import("lit-html").TemplateResult<1>;
 }
